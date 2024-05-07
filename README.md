@@ -1,4 +1,4 @@
-# Particle Effects Experiment with Three.js and GLSL Shaders
+# Particle Effects Experiment
 
 This project is an experiment that combines Three.js and GLSL shaders to create particle effects when hovering over an image.
 
