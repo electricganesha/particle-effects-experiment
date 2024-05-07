@@ -1,0 +1,60 @@
+{
+    "array": [
+        {
+            "radius": 0.1,
+            "shader": true,
+            "image": "images/image1.png",
+            "random": 1.0,
+            "depth": 1.0,
+            "size": 0.45
+        },
+        {
+            "radius": 0.15,
+            "shader": true,
+            "image": "images/image3.png",
+            "random": 1.0,
+            "depth": 1.0,
+            "size": 0.55
+        },
+        {
+            "radius": 0.15,
+            "shader": true,
+            "image": "images/image4.png",
+            "random": 1.0,
+            "depth": 1.0,
+            "size": 0.45
+        },
+        {
+            "radius": 0.15,
+            "shader": true,
+            "image": "images/image5.png",
+            "random": 1.0,
+            "depth": 1.0,
+            "size": 0.55
+        },
+        {
+            "radius": 0.15,
+            "shader": true,
+            "image": "images/image6.png",
+            "random": 1.0,
+            "depth": 1.0,
+            "size": 0.55
+        },
+        {
+            "radius": 0.15,
+            "shader": true,
+            "image": "images/image7.png",
+            "random": 1.0,
+            "depth": 1.0,
+            "size": 0.55
+        },
+        {
+            "radius": 0.25,
+            "shader": true,
+            "image": "images/image8.png",
+            "random": 1.0,
+            "depth": 1.0,
+            "size": 0.45
+        }
+    ]
+}
